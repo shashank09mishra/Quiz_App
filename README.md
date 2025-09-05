@@ -1,4 +1,4 @@
-# Quiz Panther by AJ
+# Quiz Panther
 
 A modern React-based trivia quiz application powered by the Open Trivia Database API. Test your knowledge across various categories and difficulty levels with an interactive quiz experience.
 
