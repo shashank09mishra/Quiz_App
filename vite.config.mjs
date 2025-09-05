@@ -13,6 +13,7 @@ export default defineConfig({
     port: 3000,
     host: "0.0.0.0",
     strictPort: true,
+    allowedHosts: ["quiz-app-pcp8.onrender.com"], // ✅ Add this line
   },
 
   build: {
